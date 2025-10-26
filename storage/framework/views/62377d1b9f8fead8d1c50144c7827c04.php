@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Hotel_Booking\booking\resources\views\admin\bookinginfo.blade.php ENDPATH**/ ?>
