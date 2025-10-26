@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking System
+#  Hotel Booking System
 <img width="1700" height="2953" alt="image" src="https://github.com/user-attachments/assets/0b848dbd-2f67-43d7-82ee-3afe5f3cb5f8" />
 
 A **Laravel-based Hotel Booking System** that allows users to browse hotels, view details, make bookings, and leave reviews.  
