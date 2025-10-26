@@ -1,5 +1,5 @@
 #  Hotel Booking Website "Hotelak"
-<img width="1700" height="2953" alt="image" src="https://github.com/user-attachments/assets/0b848dbd-2f67-43d7-82ee-3afe5f3cb5f8" />
+<img width="1700" height="2953" alt="image" src="https://github.com/user-attachments/assets/7b1b2228-10f2-482c-8f0e-34bbad93a27c" />
 
 A **Laravel-based Hotel Booking System** that allows users to browse hotels, view details, make bookings, and leave reviews.  
 This project provides a clean interface for both users and admins, with integrated email notifications and queue management.
