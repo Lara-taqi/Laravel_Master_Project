@@ -1,4 +1,4 @@
-#  Hotel Booking System
+#  Hotel Booking Website "Hotelak"
 <img width="1700" height="2953" alt="image" src="https://github.com/user-attachments/assets/0b848dbd-2f67-43d7-82ee-3afe5f3cb5f8" />
 
 A **Laravel-based Hotel Booking System** that allows users to browse hotels, view details, make bookings, and leave reviews.  
@@ -6,7 +6,7 @@ This project provides a clean interface for both users and admins, with integrat
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  **Hotel Management** (Add, Edit, Delete hotels)
 -  **Room Management** (Each hotel has multiple rooms with details)
@@ -39,7 +39,7 @@ This project provides a clean interface for both users and admins, with integrat
 
 ##  Installation
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/hotel-booking.git
 cd hotel-booking
